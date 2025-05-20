@@ -60,6 +60,11 @@ ul {
     border: 10px solid rgb(0, 241, 0);
     border-spacing: 10px;
     text-align: center;
+    margin: auto;
+}
+
+#tabela-horarios th {
+    background-color: #029aff;
 }
 
 /* Modificar Rodapé */

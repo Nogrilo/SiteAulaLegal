@@ -1,0 +1,70 @@
+/* Ter um espaco pra n ficar tao colado */
+
+* {
+    margin-top: 1px;
+    margin-left: 5px;
+}
+
+/* Modificar o body */
+
+body {
+    background-color: rgb(238, 110, 110);
+    font-family: "Shadows Into Light", cursive;
+    font-size: 25px;
+}
+
+/* Modificar o topo */
+
+#topo {
+    background-color: rgb(172, 172, 240);
+    color: rgb(77, 65, 51);
+    font-family: "Pacifico", cursive;
+}
+
+/* Modificar .sessao */
+
+.secao {
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 10px 10px 1px black;
+    letter-spacing: 2px;
+}
+
+/* Modificar a imagem */
+
+#imagem {
+    text-align: center;
+    border-radius: 50px;
+    border-style: solid;
+    border-color: rgb(255, 0, 255);
+}
+
+/* Modoficar os titulos */
+h1, h2 {
+    color: chartreuse;
+    text-align: right;
+    font-size: 60px;
+}
+
+/* Modificar as habilidades */
+
+ul {
+    list-style-type: upper-roman;
+    padding: 50px;
+}
+
+/* Modificar a tabela */
+
+#tabela-horarios {
+    border: 10px solid rgb(0, 241, 0);
+    border-spacing: 10px;
+    text-align: center;
+}
+
+/* Modificar Rodapé */
+
+#rodape {
+    background-color: rgb(86, 1, 165);
+    color: white;
+    text-align: center;
+}

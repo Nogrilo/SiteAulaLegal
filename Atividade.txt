@@ -1,0 +1,23 @@
+Atividade CSS – Lista de Tarefas
+
+Personalizar o cabeçalho (#topo): cor de fundo, cor do texto, margens e alinhamento.                            Feito   
+
+Aplicar estilo ao corpo da página (body): cor de fundo, fonte e cor do texto.                                   Feito
+
+Estilizar todas as seções com a classe .secao: fundo branco, bordas arredondadas, sombra e espaçamento.         Feito
+
+Centralizar e decorar a imagem (.imagem-principal): largura, borda colorida e cantos arredondados.              Feito
+
+Estilizar os títulos (h1, h2): cores diferentes, fonte e alinhamento.                                           Feito
+
+Estilizar a lista de habilidades (ul): remover marcadores, adicionar ícones ou espaçamento.                     Feito
+
+Aplicar estilos à tabela (#tabela-horarios): bordas visíveis, cores no cabeçalho e espaçamento interno.         Feito 
+
+Estilizar os campos do formulário (#contato input, textarea): largura total, borda arredondada e espaçamento.   Não tem
+
+Personalizar o botão de envio do formulário (input[type="submit"]): cor de fundo, texto branco e efeito hover.  Não tem
+
+Criar um rodapé estilizado (#rodape): cor escura, texto claro e centralizado com espaçamento.                   Feito
+
+OBS: implementar no HTML um Menu e rodapé 
